@@ -1,4 +1,4 @@
-# frontend-api
+# Front End Api Test And Desgin 
 
 > My well-made Nuxt.js project
 
@@ -6,7 +6,8 @@
 
 ``` bash
 # install dependencies
-Nuxt.js project
+Live link https://front-end-code.netlify.com/
+
 
 $ npm run install
 
