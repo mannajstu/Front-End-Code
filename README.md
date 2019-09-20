@@ -6,7 +6,7 @@
 
 ``` bash
 # install dependencies
-Live link https://front-end-code.netlify.com/
+Live link <a href="https://front-end-code.netlify.com/">Go Here</a> 
 
 
 $ npm run install
