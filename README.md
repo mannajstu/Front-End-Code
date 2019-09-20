@@ -1,12 +1,12 @@
 # Front End Api Test And Desgin 
 
 > My well-made Nuxt.js project
-
+Live link <a href="https://front-end-code.netlify.com/">Go Here</a> 
 ## Build Setup
 
 ``` bash
 # install dependencies
-Live link <a href="https://front-end-code.netlify.com/">Go Here</a> 
+
 
 
 $ npm run install
